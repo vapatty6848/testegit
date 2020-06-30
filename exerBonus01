@@ -1,0 +1,9 @@
+#!/bin/bash
+PALAVRAS="Shell Script Usando Estrutura de Repetição For bo Terminal"
+for PALAVRA in $PALAVRAS
+   do
+      echo $PALAVRA
+   done
+
+# palavras=(shel script usando epetindo adicionando`)
+# for palavra in "${palavras[@]}"
